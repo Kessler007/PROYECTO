@@ -2,4 +2,6 @@
 <resources>
     <dimen name="login_horizontalMargin">40dp</dimen>
     <dimen name="login_marginTop">20dp</dimen>
+    <dimen name="imageView_layoutHeight">150dp</dimen>
+    <dimen name="textView_textSize">14sp</dimen>
 </resources>
