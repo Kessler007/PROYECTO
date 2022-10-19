@@ -2,7 +2,14 @@
     <string name="app_name">login_Activity</string>
     <string name="nombre_de_usuario">Nombre de Usuario</string>
     <string name="contrasena">Contraseña</string>
-    <string name="button_text">LOGIN</string>
     <string name="no_tienes_cuenta">¿No Tienes Cuenta?,</string>
+    <string name="Correo">Correo</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contrasena">Contraseña</string>
+    <string name="confirmar_contrasena">Confirmar Contraseña</string>
+    <string name="button_text_create_account">ÚNETE</string>
+    <string name="button_text">LOGIN</string>
     <string name="crea_una_aqui">Crea una Aqui</string>
+
 </resources>
