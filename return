@@ -1,0 +1,35 @@
+[33mcommit ec94e16309a9c9ece0ac24ee05ca187807d5b672[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Kessler007 <Dan.wick2106@gmail.com>
+Date:   Wed Oct 19 09:04:47 2022 -0400
+
+    Create Account
+
+[33mcommit e6e5921640d96fafb082f9b912b2b72b8bfe8f7e[m
+Author: Kessler007 <dan.wick2106@gmail.com>
+Date:   Wed Oct 12 11:58:15 2022 -0400
+
+    TextView Clickable
+
+[33mcommit c5733111b0d2f4df50eecd2391eef9d0b8b9f88e[m
+Author: Kessler007 <dan.wick2106@gmail.com>
+Date:   Wed Oct 12 11:05:38 2022 -0400
+
+    Estilos en EditText y Button
+
+[33mcommit abccae8296e1e418ff0cb5b29a5bb45d647008be[m
+Author: Kessler007 <dan.wick2106@gmail.com>
+Date:   Wed Oct 12 09:45:42 2022 -0400
+
+    Internacionalizacion de Textos
+
+[33mcommit 0177db076f3c4c25a09dbaf4ec452df7acae994d[m
+Author: Kessler007 <dan.wick2106@gmail.com>
+Date:   Wed Oct 12 09:31:24 2022 -0400
+
+    Coordinador Layout
+
+[33mcommit e3b201fa98e50e2119c8f3525c6d33500a08009c[m
+Author: Kessler007 <dan.wick2106@gmail.com>
+Date:   Wed Oct 12 08:40:38 2022 -0400
+
+    Configurando Nuestro Tema Material
