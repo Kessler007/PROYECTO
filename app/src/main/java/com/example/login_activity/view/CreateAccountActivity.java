@@ -1,9 +1,11 @@
-package com.example.login_activity;
+package com.example.login_activity.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import android.os.Bundle;
+
+import com.example.login_activity.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
