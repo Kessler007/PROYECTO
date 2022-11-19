@@ -13,7 +13,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:src="@drawable/bosque"
-            android:scaleType="centerCrop"/>
+            android:scaleType="centerCrop"
+            android:transitionName="@string/transitionName_imageCardView"/>
 
         <LinearLayout
             android:layout_width="match_parent"
