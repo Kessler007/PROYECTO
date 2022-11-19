@@ -101,16 +101,16 @@ public class HomeFragment extends Fragment {
     public ArrayList<Image> buidImages(){
         ArrayList<Image> images = new ArrayList<>();
 
-        images.add(new Image("", "Carlos Valdivia", "2 dias", "1 me gusta"));
-        images.add(new Image("", "Luis Perez", "3 dias", "5 me gusta"));
-        images.add(new Image("", "Fernando Torricos", "6 dias", "4 me gusta"));
-        images.add(new Image("", "Maria Flores", "5 dias", "6 me gusta"));
-        images.add(new Image("", "Rolando Morales", "3 dias", "5 me gusta"));
-        images.add(new Image("", "William Jaimes", "4 dias", "4 me gusta"));
-        images.add(new Image("", "Roberto Paniagua", "2 dias", "3 me gusta"));
-        images.add(new Image("", "Lorena Herrera", "2 dias", "8 me gusta"));
-        images.add(new Image("", "Laura Caceres", "6 dias", "3 me gusta"));
-        images.add(new Image("", "Marcelo Rojas", "9 dias", "1 me gusta"));
+        images.add(new Image("https://articles-img.sftcdn.net/images/f_auto,q_auto/w_1024,h_576,c_scale/v1575195346/fondo_nevado_9_1920x1080_cpyxj1/fondo_nevado_9_1920x1080_cpyxj1-1024x576.jpg", "Carlos Valdivia", " 2 dias", "1 me gusta"));
+        images.add(new Image("https://i.pinimg.com/originals/c4/2b/f4/c42bf4dad5161f3ba5082cc379032103.jpg", "Luis Perez", " 3 dias", "5 me gusta"));
+        images.add(new Image("https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80", "Fernando Torricos", " 6 dias", "4 me gusta"));
+        images.add(new Image("https://fondosmil.com/fondo/2292.jpg", "Maria Flores", " 5 dias", "6 me gusta"));
+        images.add(new Image("https://mobimg.b-cdn.net/v3/fetch/75/756a5af0df4e9a3b8171f05880b1d461.jpeg", "Rolando Morales", " 3 dias", "5 me gusta"));
+        images.add(new Image("https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRlc2t0b3AlMjB3YWxscGFwZXJzfGVufDB8fDB8fA%3D%3D&w=1000&q=80", "William Jaimes", " 4 dias", "4 me gusta"));
+        images.add(new Image("https://wallpaperaccess.com/full/1371387.jpg", "Roberto Paniagua", " 2 dias", "3 me gusta"));
+        images.add(new Image("https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8OXx8fGVufDB8fHx8&w=1000&q=80", "Lorena Herrera", " 2 dias", "8 me gusta"));
+        images.add(new Image("https://i.pinimg.com/736x/4a/c9/85/4ac985dc46691ab9ac18bae28ca057c3.jpg", "Laura Caceres", " 6 dias", "3 me gusta"));
+        images.add(new Image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf33b5vFv7wPoYrWGG0_hiCIt7TWWJe4gc3Q&usqp=CAU", "Marcelo Rojas", " 9 dias", "1 me gusta"));
 
         return images;
     }
